@@ -55,7 +55,7 @@ else {
 
 
 var ques4 = "What is the correct way to declare a variable in JavaScript?\n" +
-    "A.variable name = value;\n"
+    "A.variable name = value;\n"+
     "B.var name = value;\n" +
     "C.variable = value;\n" +
     "D.value = name;";
